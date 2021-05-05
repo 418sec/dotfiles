@@ -85,7 +85,6 @@ POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
-CODESTATS_API_KEY="SFMyNTY.ZW1WaGJsODMjI01USXpOelE9.QLkrIH0XBnOl-hm87HLvblblO-r7nPPDYZli-EwEDdQ"
 source $ZSH/custom/plugins/code-stats-zsh/codestats.plugin.zsh
 
 # Which plugins would you like to load?
